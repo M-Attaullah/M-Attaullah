@@ -70,7 +70,7 @@
 
 <!-- Contact Details -->
 ## 📧 Contact Details
-- Email: [!muhammadattaullah442@gmail.com](https://img.shields.io/badge/Email-muhammadattaullah442%40gmail.com-green)](mailto:muhammadattaullah442@gmail.com)
+- Email: [![muhammadattaullah442@gmail.com](https://img.shields.io/badge/Email-muhammadattaullah442%40gmail.com-green)](mailto:muhammadattaullah442@gmail.com)
 
 <!-- Thank you message -->
 ## 🙏 Thanks For Visiting
