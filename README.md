@@ -11,7 +11,7 @@
 
 <!-- Portfolio Website -->
 ## 💼 Portfolio Website
-- [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-green)]()
+- [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue)]()
 
 <!-- Interests -->
 ## 🎯 Interests
