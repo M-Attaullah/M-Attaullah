@@ -74,8 +74,8 @@
 - LinkedIn: [![Muhammad Attaullah](https://img.shields.io/badge/LinkedIn-Muhammad%20Attaullah%20-green)](https://www.linkedin.com/in/muhammad-attaullah-705764333/)
 
   ## 💼 Hire me at
-- Facebook: [![Muhamamd Attaullah On Facebook](https://img.shields.io/badge/Facebook-Muhammad%30Attaullah%30-green)](https://www.facebook.com/profile.php?id=100072241077073)
-- Instagram:[![Muhamamd Attaullah On Instagram](https://img.shields.io/badge/Facebook-Muhammad%30Attaullah%30-green)](https://www.instagram.com/atta_ullah16/)
+- Facebook: [![Muhamamd Attaullah On Facebook](https://img.shields.io/badge/Facebook-Muhammad%20Attaullah%20-green)](https://www.facebook.com/profile.php?id=100072241077073)
+- Instagram:[![Muhamamd Attaullah On Instagram](https://img.shields.io/badge/Facebook-Muhammad%20Attaullah%20-green)](https://www.instagram.com/atta_ullah16/)
 
 
 
