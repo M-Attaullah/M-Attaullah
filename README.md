@@ -5,7 +5,7 @@
 
 <!-- Education -->
 ## 📚 Education
-- Undergraduate in Software Engineering from # [![Air University Multan Campus](https://img.shields.io/badge/Air%20University-Multan-green?logo=<https://www.google.com/search?q=air+university+multan+logo&sca_esv=976475d81eac0872&sxsrf=ADLYWIK2_QFUMqNbNAsFfBuSAYoBYBO_SA%3A1729184389282&ei=hUIRZ77NEIGI9u8Pv-3goQs&oq=air+university+multan&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWFpciB1bml2ZXJzaXR5IG11bHRhbioCCAAyBxAjGLADGCcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyDRAAGIAEGLADGEMYigUyDRAAGIAEGLADGEMYigUyDRAAGIAEGLADGEMYigUyExAuGIAEGLADGEMYyAMYigXYAQEyExAuGIAEGLADGEMYyAMYigXYAQEyExAuGIAEGLADGEMYyAMYigXYAQEyExAuGIAEGLADGEMYyAMYigXYAQEyExAuGIAEGLADGEMYyAMYigXYAQEyExAuGIAEGLADGEMYyAMYigXYAQEyGRAuGIAEGLADGEMYxwEYyAMYigUYrwHYAQEyExAuGIAEGLADGEMYyAMYigXYAQFI4wdQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACEJgDAIgGAZAGFLoGBggBEAEYCJIHATGgBwA&sclient=gws-wiz-serp#vhid=lapOse2nNhEBrM&vssid=_jkIRZ9q4DvWB9u8PrIrpMA_31>)](https://aumc.edu.pk/)
+- Undergraduate in Software Engineering from # [![Air University Multan Campus](https://img.shields.io/badge/Air%20University-Multan-green?logo=<https://www.google.com/search?q=air+university+multan+logo>)](https://aumc.edu.pk/)
 
 
 <!-- Portfolio Website -->
@@ -71,6 +71,9 @@
 
 <!-- Contact Details -->
 ## 📧 Contact Details
+**<span style="color:#34B7F1">Phone</span>**  
+[![Call Muhammad Attaullah](https://img.shields.io/badge/-Muhammad%20Attaullah%20-blue?logo=phone&logoColor=white)](tel:+923146309784)
+
 **<span style="color:#D14836">Gmail</span>**  
 [![Muhammad Attaullah On Gmail](https://img.shields.io/badge/-Muhammad%20Attaullah%20-red?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
