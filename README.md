@@ -70,13 +70,19 @@
 
 <!-- Contact Details -->
 ## 📧 Contact Details
-- [![Email me](https://img.shields.io/badge/-muhammadattaullah442%40gmail.com-gray?logo=gmail&logoColor=white)](mailto:muhammadattaullah442@gmail.com)
-- [![Muhammad Attaullah On LinkedIn](https://img.shields.io/badge/-Muhammad%20Attaullah%20-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-attaullah-705764333/)
+**<span style="color:#D14836">Gmail</span>**  
+[![Muhammad Attaullah On Gmail](https://img.shields.io/badge/-Muhammad%20Attaullah%20-red?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+**<span style="color:#0A66C2">LinkedIn</span>**  
+[![Muhammad Attaullah On LinkedIn](https://img.shields.io/badge/-Muhammad%20Attaullah%20-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
 
 
   ## 💼 Hire me at
-- [![Muhammad Attaullah On Facebook](https://img.shields.io/badge/-Muhammad%20Attaullah%20-blue?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072241077073)
-- [![M.Attaullah On Instagram](https://img.shields.io/badge/-Muhammad%20Attaullah%20-orange?logo=instagram&logoColor=white)](https://www.instagram.com/atta_ullah16/)
+**<span style="color:#1877F2">Facebook</span>**  
+[![Muhammad Attaullah On Facebook](https://img.shields.io/badge/-Muhammad%20Attaullah%20-blue?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072241077073)
+**<span style="color:#E1306C">Instagram</span>**  
+[![M.Attaullah On Instagram](https://img.shields.io/badge/-Muhammad%20Attaullah%20-purple?logo=instagram&logoColor=white)](https://www.instagram.com/atta_ullah16/)
+
 
 
 
