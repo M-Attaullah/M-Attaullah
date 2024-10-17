@@ -72,8 +72,8 @@
 
 <!-- Contact Details -->
 ## 📧 Contact Details
-**<span style="color:#34B7F1">Phone</span>**  
-📞 **Cell No:**: +923146309784
+**<span style="color:#34B7F1">Phone Number</span>**  
+📞923146309784
 
 **<span style="color:#D14836">Gmail</span>**  
 [![Muhammad Attaullah On Gmail](https://img.shields.io/badge/-Muhammad%20Attaullah%20-red?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
