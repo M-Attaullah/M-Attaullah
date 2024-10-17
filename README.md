@@ -5,7 +5,8 @@
 
 <!-- Education -->
 ## 📚 Education
-- Undergraduate in Software Engineering from # [![Air University Multan Campus](https://img.shields.io/badge/Air%20University-Multan-green)](https://aumc.edu.pk/)
+- Undergraduate in Software Engineering from # [![Air University Multan Campus](https://img.shields.io/badge/Air%20University-Multan-green?logo=<https://www.google.com/search?q=air+university+multan+logo&sca_esv=976475d81eac0872&sxsrf=ADLYWIK2_QFUMqNbNAsFfBuSAYoBYBO_SA%3A1729184389282&ei=hUIRZ77NEIGI9u8Pv-3goQs&oq=air+university+multan&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWFpciB1bml2ZXJzaXR5IG11bHRhbioCCAAyBxAjGLADGCcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyDRAAGIAEGLADGEMYigUyDRAAGIAEGLADGEMYigUyDRAAGIAEGLADGEMYigUyExAuGIAEGLADGEMYyAMYigXYAQEyExAuGIAEGLADGEMYyAMYigXYAQEyExAuGIAEGLADGEMYyAMYigXYAQEyExAuGIAEGLADGEMYyAMYigXYAQEyExAuGIAEGLADGEMYyAMYigXYAQEyExAuGIAEGLADGEMYyAMYigXYAQEyGRAuGIAEGLADGEMYxwEYyAMYigUYrwHYAQEyExAuGIAEGLADGEMYyAMYigXYAQFI4wdQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACEJgDAIgGAZAGFLoGBggBEAEYCJIHATGgBwA&sclient=gws-wiz-serp#vhid=lapOse2nNhEBrM&vssid=_jkIRZ9q4DvWB9u8PrIrpMA_31>)](https://aumc.edu.pk/)
+
 
 <!-- Portfolio Website -->
 ## 💼 Portfolio Website
@@ -80,6 +81,7 @@
   ## 💼 Hire me at
 **<span style="color:#1877F2">Facebook</span>**  
 [![Muhammad Attaullah On Facebook](https://img.shields.io/badge/-Muhammad%20Attaullah%20-blue?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072241077073)
+
 **<span style="color:#E1306C">Instagram</span>**  
 [![M.Attaullah On Instagram](https://img.shields.io/badge/-Muhammad%20Attaullah%20-purple?logo=instagram&logoColor=white)](https://www.instagram.com/atta_ullah16/)
 
