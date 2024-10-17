@@ -1,6 +1,6 @@
 <!-- Name and Profession -->
 <h1 align="center">👨‍💻 Muhammad Attaullah</h1>
-<h3 align="center" style="color:blue;">Software Engineer</h3>
+<h3 align="center" style="color:blue;">Software Engineer💻</h3>
 <p align="center">I'm Muhammad Attaullah, a proactive Software Engineering student at Air University Multan Campus, driven by a passion for Web Development, Artificial Intelligence, and IoT (Internet Of Things) I specialize in crafting bespoke websites and innovative SaaS Solutions, always eager to collaborate with fellow innovators. Let's connect on LinkedIn and bring our ideas to life!</p>
 
 <!-- Education -->
