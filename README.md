@@ -71,7 +71,7 @@
 <!-- Contact Details -->
 ## 📧 Contact Details
 - Email: [![muhammadattaullah442@gmail.com](https://img.shields.io/badge/Email-muhammadattaullah442%40gmail.com-green)](mailto:muhammadattaullah442@gmail.com)
-- LinkedIn: [![Muhammad Attaullah](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/muhammad-attaullah-705764333/-green)](https://www.linkedin.com/in/muhammad-attaullah-705764333/)
+- LinkedIn: [![Muhammad Attaullah](https://img.shields.io/badge/LinkedIn/muhammad-attaullah-705764333/-green)](https://www.linkedin.com/in/muhammad-attaullah-705764333/)
 
 
 <!-- Thank you message -->
