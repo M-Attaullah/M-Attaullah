@@ -73,7 +73,7 @@
 <!-- Contact Details -->
 ## 📧 Contact Details
 **<span style="color:#34B7F1">Phone</span>**  
-[![Call Muhammad Attaullah](https://img.shields.io/badge/-Muhammad%20Attaullah%20-34B7F1?logo=phone&logoColor=white)](tel:+923146309784)
+[![Call Muhammad Attaullah](https://img.shields.io/badge/-Muhammad%20Attaullah%20-green?logo=phone&logoColor=white)](tel:+923146309784)
 
 **<span style="color:#D14836">Gmail</span>**  
 [![Muhammad Attaullah On Gmail](https://img.shields.io/badge/-Muhammad%20Attaullah%20-red?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
