@@ -70,13 +70,13 @@
 
 <!-- Contact Details -->
 ## 📧 Contact Details
-- [![muhammadattaullah442@gmail.com](https://img.shields.io/badge/-muhammadattaullah442%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:muhammadattaullah442@gmail.com)
+- [![Email me](https://img.shields.io/badge/-muhammadattaullah442%40gmail.com-gray?logo=gmail&logoColor=white)](mailto:muhammadattaullah442@gmail.com)
 - [![Muhammad Attaullah On LinkedIn](https://img.shields.io/badge/-Muhammad%20Attaullah%20-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-attaullah-705764333/)
 
 
   ## 💼 Hire me at
 - [![Muhammad Attaullah On Facebook](https://img.shields.io/badge/-Muhammad%20Attaullah%20-blue?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072241077073)
-- [![M.Attaullah On Instagram](https://img.shields.io/badge/-Muhammad%20Attaullah%20-pink?logo=instagram&logoColor=white)](https://www.instagram.com/atta_ullah16/)
+- [![M.Attaullah On Instagram](https://img.shields.io/badge/-Muhammad%20Attaullah%20-orange?logo=instagram&logoColor=white)](https://www.instagram.com/atta_ullah16/)
 
 
 
