@@ -75,7 +75,7 @@
 
   ## 💼 Hire me at
 - Facebook: [![Muhamamd Attaullah On Facebook](https://img.shields.io/badge/Facebook-Muhammad%20Attaullah%20-green)](https://www.facebook.com/profile.php?id=100072241077073)
-- Instagram:[![M.Attaullah On Instagram](https://img.shields.io/badge/Instagram-M.%20Attaullah%20-green)](https://www.instagram.com/atta_ullah16/)
+- Instagram:[![M.Attaullah On Instagram](https://img.shields.io/badge/Instagram-Muhammad%20Attaullah%20-green)](https://www.instagram.com/atta_ullah16/)
 
 
 
