@@ -33,9 +33,11 @@
   - Microsoft Access
   - Microsoft Excel
   - Microsoft PowerPoint
-  - Flowcharts
+  - Artifical Intelligence
   - My SQL
-  - Data Structures and Algorithms
+  - Machine Learning
+  - Computer Network (Cisco Packet Tracer)
+  - Data Structures 
 
 <!-- Services I Offer -->
 ## 💼 Services I Offer
