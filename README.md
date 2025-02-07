@@ -42,10 +42,11 @@
 <!-- Services I Offer -->
 ## 💼 Services I Offer
 - Custom Web Development (Html, Css, Javascript, React)
+- Mintab Data Analysis and Data Visualization
+- Ecommerce Website
 - Webflow and Framer Website Development
 - MVP and Prototype Development
 - Email Development
-- Excel Data Analysis and Data Visualization
 
 ## 🛠Tools I Use:
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
